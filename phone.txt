@@ -1,0 +1,4 @@
+phone is phone
+telephone is phone
+mobile is phone
+but mobile is not telephone
